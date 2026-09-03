@@ -2,7 +2,7 @@
 
 Dashboard em Power BI para diagnóstico de capital imobilizado, risco de ruptura e oportunidades de otimização de estoque — projeto de portfólio.
 
-![Dashboard preview](./assets/dashboard-preview.jpg)
+![Dashboard preview](.dashboard-preview.jpg)
 
 > ⚠️ **Sobre o dado**: este projeto usa um dataset simulado do Kaggle para fins de demonstração técnica. As análises e recomendações abaixo são construídas *como se* fosse uma operação real, para exercitar o processo analítico completo — da pergunta de negócio ao dashboard final.
 
